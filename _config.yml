@@ -46,7 +46,7 @@ authors:
     komodo:
       name:           Komodo
       site:           https://komodoplatform.com
-      avatar:         assets/images/avatar2.jpg
+      avatar:         assets/images/komodo-logo-icon-black.png
       bio:            "Komodo is the core of a multi-chain, multi-algorithm, multi-consensus ecosystem secured by Bitcoin hashrate."
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/komodoplatform
