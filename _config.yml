@@ -35,6 +35,39 @@ authors:
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
  
+    cosmos:
+      name:           Cosmos
+      site:           https://cosmos.network
+      avatar:         assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/cosmosnetwork
+      
+    komodo:
+      name:           Komodo
+      site:           https://komodoplatform.com
+      avatar:         assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/komodoplatform
+      
+     polkadot:
+      name:           Polkadot
+      site:           https://polkadot.network
+      avatar:         assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/polkadot
+      
+    verus:
+      name:           Verus
+      site:           https://veruscoin.io
+      avatar:         assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/veruscoin
+
+
 # Defaults
 defaults:
 
