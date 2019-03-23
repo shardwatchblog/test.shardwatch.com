@@ -38,8 +38,8 @@ authors:
     cosmos:
       name:           Cosmos
       site:           https://cosmos.network
-      avatar:         assets/images/cosmos-logo-white.png
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      avatar:         assets/images/cosmos-logo-black.png
+      bio:            "Cosmos solves today's hardest blockchain problems of scalability, usability and interoperability."
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/cosmosnetwork
 
