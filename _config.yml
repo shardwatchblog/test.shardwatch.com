@@ -46,8 +46,8 @@ authors:
     verus:
       name:           Verus
       site:           https://veruscoin.io
-      avatar:         assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      avatar:         assets/images/vrsc-logo.svg
+      bio:            "Verus Project is for provisioning scalable and secure public blockchains as a service, for applications built upon these parallel chains to scale."
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/veruscoin
 
