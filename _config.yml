@@ -38,7 +38,7 @@ authors:
     polkadot:
       name:           Polkadot
       site:           https://polkadot.network
-      avatar:         assets/images/avatar2.jpg
+      avatar:         assets/images/polkadot-logo.svg
       bio:            "Polkadot is an inter-chain blockchain protocol enabling heterogenous multi-chain technology consisting of many parachains with potentially differeing characteristics."
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/polkadot
